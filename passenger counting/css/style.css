@@ -1,0 +1,44 @@
+body {
+  background-image: url("../html/trees.jfif");
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bold;
+  text-align: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+button {
+  border: none;
+  padding: 10px 10px 10px 10px;
+  color: white;
+  font-weight: bold;
+  width: 400px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  text-decoration: white;
+}
+
+#inc-but {
+  background: darkred;
+}
+
+#sav-but {
+  background: lightskyblue;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: aliceblue;
+}

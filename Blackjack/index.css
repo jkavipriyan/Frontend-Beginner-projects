@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  background-image: url("./download.jfif");
+  background-size: cover;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+h1 {
+  color: goldenrod;
+}
+
+p {
+  font-size: large;
+  color: aliceblue;
+}
+
+button {
+  font-size: large;
+  color: #016f32;
+  width: 180px;
+  background: goldenrod;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 2px;
+  border: none;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
